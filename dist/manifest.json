@@ -1,0 +1,7 @@
+{
+  "id": "bravebrand.figma",
+  "name": "Figma",
+  "apiVersion": 1,
+  "description": "Open the full Figma canvas beside any conversation, so you and your agent work on the same file.",
+  "discovery": { "category": "productivity", "tags": ["BraveBrand", "Figma", "design"] }
+}
